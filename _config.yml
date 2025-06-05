@@ -22,12 +22,12 @@ title: BOOO Blog
 email: 347622814@qq.com
 description: Personal thoughts and projects
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://fantasyengineer.github.io/"
+url: "http://jimmyblog.com/"
 twitter_username: jekyllrb
 github_username:  fantasyengineer
 
 # Build settings
-theme: jekyll-theme-minimal  # 主题名称
+theme: minima  # 主题名称
 plugins:
   - jekyll-feed
 
