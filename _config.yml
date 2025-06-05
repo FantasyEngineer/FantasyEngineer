@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  fantasyengineer
 
 # Build settings
-theme: minima  # 主题名称
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
